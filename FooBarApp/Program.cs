@@ -10,6 +10,8 @@ namespace FooBarApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("This line was added.");
+
             Console.WriteLine("Hello World!");
             Console.ReadKey();
         }
