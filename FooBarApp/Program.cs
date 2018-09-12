@@ -10,6 +10,7 @@ namespace FooBarApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Red White Blue");
             Console.WriteLine("Apples Oranges Bananas");
             Console.WriteLine("This line was added and modified.");
 
